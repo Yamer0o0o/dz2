@@ -25,3 +25,6 @@
 3. Зашифруйте созданный раздел с помощью LUKS.
 
 ### Ответ
+![new_disk](a1.png)
+![new_disk](a2.png)
+![new_disk](a3.png)
