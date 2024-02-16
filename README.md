@@ -9,7 +9,14 @@
 
 
 ### Ответ
-
+![new_disk](1111.png)
+![new_disk](111.png)
+![new_disk](222.png)
+![new_disk](333.png)
+![new_disk](444.png)
+![new_disk](555.png)
+![new_disk](666.png)
+![new_disk](777.png)
 
 ### Задание 2
 
